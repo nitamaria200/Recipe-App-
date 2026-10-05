@@ -493,21 +493,13 @@ The project focuses on:
 
 # 🔮 Possible Future Improvements
 
-RecipeApp provides the core functionality of a desktop recipe-sharing platform, but there are several directions in which the project could be extended.
-
 Possible improvements include:
 
 * More advanced recipe filtering
 * Ingredient-based search
 * Improved authentication and password security
-* More extensive automated testing
 * Additional administrative tools
-* Improved database validation and error handling
-* More advanced user profiles
 * Recipe favorites and bookmarking
-* Better image management
-* Improved UI responsiveness and visual customization
-* More comprehensive recipe statistics and ratings
 
 ---
 
