@@ -381,7 +381,7 @@ It includes:
 
 The search functionality allows users to quickly filter recipes by name or category.
 
-![Login Screen](interface/Picture9.png)
+![Login Screen](interface/Picture10.png)
 
 ---
 
